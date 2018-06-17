@@ -1,0 +1,6 @@
+c:\users\алекс\documents\visual studio 2015\Projects\RPN\RPN\bin\Debug\RPN.exe.config
+c:\users\алекс\documents\visual studio 2015\Projects\RPN\RPN\bin\Debug\RPN.exe
+c:\users\алекс\documents\visual studio 2015\Projects\RPN\RPN\bin\Debug\RPN.pdb
+c:\users\алекс\documents\visual studio 2015\Projects\RPN\RPN\obj\Debug\RPN.csprojResolveAssemblyReference.cache
+c:\users\алекс\documents\visual studio 2015\Projects\RPN\RPN\obj\Debug\RPN.exe
+c:\users\алекс\documents\visual studio 2015\Projects\RPN\RPN\obj\Debug\RPN.pdb
